@@ -1,4 +1,4 @@
-# Custom DNN using TensorFlow
+# Custom DNN using TensorFlow 2.x
 
 This is an example of a fully-connected feed-forward neural network implemented in TensorFlow 2.x without relying (much) on Keras, except for tf.keras.Model, tf.keras.layers.Layer and tf.keras.layers.RandomRotation.
 
